@@ -1,0 +1,72 @@
+body {
+    background: url(../Imagenes/Boca.jpg);
+}
+
+#parrafo{
+ display: inline-flex;
+}
+p{
+    color: black;
+    background-color: yellow;
+    margin: 65px 100px;
+
+   
+}
+
+#bombonera{
+    width: 560px;
+    height: 315px;
+    margin-right: 20px;
+   
+}
+
+#foto-y-video{
+    
+        display: flex;
+        margin: 150px;
+}
+
+#registro{
+    margin: 40;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formulario{
+    width: 200px;
+    background: #24303c;
+    padding: 30px;
+    margin: 0px;
+    margin top: 30px;
+    box-shadow: 7px 13px 37px #000;
+    margin-right: 20px;
+    }
+
+.formulario h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: white;
+    
+}
+.controles{
+    width: 100%;
+    background: #25303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+.formulario .boton{
+width: 220px;
+background: blue;
+border: none;
+padding: 12px;
+color: white ;
+margin: 16px 0px;
+font-size: 16px;
+}
+#registro{
+    margin: 20px;
+}
